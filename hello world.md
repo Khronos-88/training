@@ -1,2 +1,5 @@
-hello world!
+hello world
+
+*Курсив.*
+
 1
